@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Final_app</string>
+    <string name="listview">ListView Description</string>
+    <string name="checkbox">CheckBox Description</string>
+    <string name="imageview">ImageView Description</string>
+    <string name="toggle">Toggle Switch Description</string>
+    <string name="date">Date Picker Description</string>
+    <string name="rating">Rating Bar Description</string>
+    <string name="time">Time Picker Description</string>
+    <string name="textview">TextView Description</string>
+    <string name="edit">EditText Description</string>
+    <string name="camera">Camera Description</string>
+    <string name="dashboard_text">Dashboard</string>
+</resources>
